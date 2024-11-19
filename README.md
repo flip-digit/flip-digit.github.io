@@ -1,2 +1,3 @@
-# flip-digit.github.io
-&lt;flip-digit> Web Component
+# &lt;flip-digit> Web Component
+
+https://codepen.io/vineethtrv/pen/XWvOWxy
